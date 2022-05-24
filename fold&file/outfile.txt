@@ -1,0 +1,43 @@
+Elija K Amponsah
+
+Willingboro, New Jersey || ampons57@students.rowan.edu || amponsaeli@gmail.com || (609) 369-3048.
+ 
+Education                                                                                                 LINKS  
+Rowan University, Glassboro, NJ    	August 2021
+Bachelor of Science in Computer Science        			       Github:                                                 
+Concentration in Artificial Intelligence					github.com/elija33						                  		Linkedln: 
+				         				linkedin.com/in/elija-amponsah
+Technical Skills  
+•	HTML5, Css3, Bootstrap
+•	JavaScript and Python.
+•	React Native.
+•	Object Oriented Programming Java
+•	Rest web services
+•	Git and Unix 	•	JavaScript frameworks (Angularjs, React) Testing with Jasmine.
+•	Responsive Design 
+•	Css Preprocess (Less and Sass) 
+•	Web Tools (Bower, Grunt, Gulp, Yo, NPM, and Yeoman) 
+•	Agile methodologies
+Professional Experience 
+Freelance React Native 
+Upwork, August Dr, CA
+
+Front End Web Developer (Remote)                                              February 2018-December 20119
+Coursera, Mountain View, CA								              
+•	Coursera is an online learning platform in which every course is taught by instructors from top universities including the Ivy league, NYU, Stanford, Duke, UCLA, Massachusetts Institute of Technology University.
+•	Hired as a front-end web developer to work alongside designers and developers to build and maintain multiple web applications using HTML5, Css3, JavaScript, AngularJs and CSS Preprocessors, Ajax, and Rest web services.
+•	Worked closely with business leaders, graphic designers, software engineers, and QA resources through the complete software development lifecycle
+
+Freelance Front-End Web Developer                                                              May 2017-August 2018
+Upwork, August Dr, CA							 
+•	Worked with various clients as a front-end web developer using web technologies such as HTML5, CSS3, JavaScript, Angularjs. 
+•	Helped client build their designs while thinking about Accessibility Responsiveness, and modular reusable CSS (Sass), Implemented UI designs using HTML and CSS.
+•	Analyzed UI/UX designs for responsive layout for improved usability
+•	Developed and maintained legacy applications
+
+Front End Web Developer                                                                              June 2014-January 2017
+Hess Air Hanger, Ewing, NJ	
+•	Full-time front-end developer, Implemented UI development using HTML and CSS. 
+•	Fixed software bugs via JavaScript, CSS and Testing AngularJs code using Jasmine and Karma. Rewrote existing code and added new code. 
+•	Worked with a wide variety of clients helping them build out their markup and CSS, specialized in large-scale CSS (Sass), focusing on reusability and modularity
+
